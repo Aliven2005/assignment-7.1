@@ -1,0 +1,29 @@
+body {
+    background-color: royalblue;
+    color: black;
+}
+
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeimage {
+    position: absolute;
+    width: 100px;
+    height: auto;
+    top: 0;
+    left: 0;
+}
+
+header {
+    text-align: center;
+}
